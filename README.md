@@ -1,10 +1,9 @@
 # SelectScript_OpenRAVE
 
-| | |
+| Author      | André Dietrich                                                                           |
 | ----------- | ---------------------------------------------------------------------------------------- |
-| Authors     | André Dietrich & Sebastian Zug                                                           |
-| Source      | `git clone` https://gitlab.com/OvGU-ESS/SelectScript_OpenRAVE.git                                 |
-| Email       | <mailto:dietrich@ivs.cs.uni-magdeburg.de> & <mailto:zug@ivs.cs.uni-magdeburg.de>         |
+| Source      | `git clone` https://gitlab.com/andre-dietrich/SelectScript_OpenRAVE.git                                 |
+| Email       | <mailto:andre.dietrich@ovgu.de>          |
 | Publication | 1. SelectScript: A query language for robotic world models and simulations               |
 |             | http://eos.cs.ovgu.de/wp-content/uploads/2015/06/SelectScript-A-Query-Language-for-Robotic-World-Models-and-Simulations.pdf |
 |             | 2. Reasoning in complex environments with the SelectScript declarative language          |
@@ -20,7 +19,7 @@ simulation environment OpenRAVE.
 
 ## Installation
 
-First of all you need to install the [SelectScript](https://gitlab.com/OvGU-ESS/SelectScript.git)!
+First of all you need to install the [SelectScript](https://gitlab.com/andre-dietrich/SelectScript.git)!
 
 via Python setuptools:
 ```
